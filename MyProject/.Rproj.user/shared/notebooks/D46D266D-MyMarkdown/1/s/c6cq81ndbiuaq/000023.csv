@@ -1,0 +1,6 @@
+"0","library(palmerpenguins)"
+"0","data('penguins')"
+"0","pg <- data.frame(penguins)"
+"0","pg <- na.omit(pg)"
+"0","plot(pg$bill_length_mm, pg$bill_depth_mm,"
+"0","     pch = 19, col = as.numeric(pg$species)+1)"
