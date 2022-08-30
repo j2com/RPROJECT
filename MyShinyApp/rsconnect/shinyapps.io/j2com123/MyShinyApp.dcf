@@ -1,0 +1,13 @@
+name: MyShinyApp
+title: MyShinyApp
+username:
+account: j2com123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6809488
+bundleId: 6216638
+url: https://j2com123.shinyapps.io/MyShinyApp/
+when: 1660884397.19221
+lastSyncTime: 1660884397.19225
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: project_visual
+title: project_visual
+username:
+account: j2com123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6828695
+bundleId: 6228060
+url: https://j2com123.shinyapps.io/project_visual/
+when: 1661229195.80325
+lastSyncTime: 1661229195.80329
+asMultiple: FALSE
+asStatic: FALSE
